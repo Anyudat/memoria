@@ -2,24 +2,24 @@ body{
     margin: auto;
 }
 
-header{
+/* header{
     background-color: rgb(75, 75, 75);
     font-size: 50px;
     text-align: left;
-}
+} */
 
-#oldal:hover{
+/* #oldal:hover{
     cursor: pointer;
 }
 
 #oldal{
     text-decoration: underline;
-}
+} */
 
-a {
+/* a {
     text-decoration: none;
     color: black;
-}
+} */
 
 #jatekmezo{
     margin: auto;
