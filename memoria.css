@@ -1,0 +1,54 @@
+body{
+    margin: auto;
+}
+
+header{
+    background-color: rgb(75, 75, 75);
+    font-size: 50px;
+    text-align: left;
+}
+
+#oldal:hover{
+    cursor: pointer;
+}
+
+#oldal{
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#jatekmezo{
+    margin: auto;
+    justify-content: center;
+}
+
+#tarolo{
+    margin: auto;
+}
+
+button{
+    border-style: solid;
+    border: 2px solid black;
+    box-sizing: border-box;
+    box-shadow: 0 0 0 2px black;
+
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+h3{
+    text-align: center;
+}
+
+#vege {
+    text-align: center;
+    font-size: 50px;
+    color: red;
+    margin-top: -330px;
+}
